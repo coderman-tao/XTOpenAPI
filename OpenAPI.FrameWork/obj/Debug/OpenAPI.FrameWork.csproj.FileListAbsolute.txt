@@ -1,0 +1,6 @@
+C:\Users\taolinse\Source\Repos\XTOpenAPI\OpenAPI.FrameWork\bin\Debug\OpenAPI.FrameWork.dll
+C:\Users\taolinse\Source\Repos\XTOpenAPI\OpenAPI.FrameWork\bin\Debug\OpenAPI.FrameWork.pdb
+C:\Users\taolinse\Source\Repos\XTOpenAPI\OpenAPI.FrameWork\bin\Debug\log4net.dll
+C:\Users\taolinse\Source\Repos\XTOpenAPI\OpenAPI.FrameWork\bin\Debug\NVelocity.dll
+C:\Users\taolinse\Source\Repos\XTOpenAPI\OpenAPI.FrameWork\obj\Debug\OpenAPI.FrameWork.dll
+C:\Users\taolinse\Source\Repos\XTOpenAPI\OpenAPI.FrameWork\obj\Debug\OpenAPI.FrameWork.pdb

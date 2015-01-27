@@ -1,0 +1,4 @@
+C:\Users\taolinse\Source\Repos\XTOpenAPI\OpenAPI.Cache\bin\Debug\OpenAPI.Cache.dll
+C:\Users\taolinse\Source\Repos\XTOpenAPI\OpenAPI.Cache\bin\Debug\OpenAPI.Cache.pdb
+C:\Users\taolinse\Source\Repos\XTOpenAPI\OpenAPI.Cache\obj\Debug\OpenAPI.Cache.dll
+C:\Users\taolinse\Source\Repos\XTOpenAPI\OpenAPI.Cache\obj\Debug\OpenAPI.Cache.pdb

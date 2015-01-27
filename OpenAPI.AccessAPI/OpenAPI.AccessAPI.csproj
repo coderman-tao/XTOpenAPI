@@ -31,7 +31,9 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
+    <Reference Include="System.configuration" />
     <Reference Include="System.Core" />
+    <Reference Include="System.Web" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="Microsoft.CSharp" />
@@ -39,8 +41,76 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Class1.cs" />
+    <Compile Include="Hotels\Ctrip\APIMethod.cs" />
+    <Compile Include="Hotels\Ctrip\Model\BaseCallEntity.cs" />
+    <Compile Include="Hotels\Ctrip\Model\BaseReturnEntity.cs" />
+    <Compile Include="Hotels\Ctrip\Model\CtripEnum.cs" />
+    <Compile Include="Hotels\Ctrip\Model\ErrorCode.cs" />
+    <Compile Include="Hotels\Ctrip\Model\Module\AreaInfo.cs" />
+    <Compile Include="Hotels\Ctrip\Model\Module\AvaiRoomRate.cs" />
+    <Compile Include="Hotels\Ctrip\Model\Module\CancelPenalty.cs" />
+    <Compile Include="Hotels\Ctrip\Model\Module\CtripHotelRepEntity.cs" />
+    <Compile Include="Hotels\Ctrip\Model\Module\DepositPayment.cs" />
+    <Compile Include="Hotels\Ctrip\Model\Module\DepositPaymentInfo.cs" />
+    <Compile Include="Hotels\Ctrip\Model\Module\DescriptiveInfo.cs" />
+    <Compile Include="Hotels\Ctrip\Model\Module\ErrorInfo.cs" />
+    <Compile Include="Hotels\Ctrip\Model\Module\Facility.cs" />
+    <Compile Include="Hotels\Ctrip\Model\Module\GuaranteePayment.cs" />
+    <Compile Include="Hotels\Ctrip\Model\Module\HotelCacheChange.cs" />
+    <Compile Include="Hotels\Ctrip\Model\Module\HotelContact.cs" />
+    <Compile Include="Hotels\Ctrip\Model\Module\HotelDescriptiveInfo.cs" />
+    <Compile Include="Hotels\Ctrip\Model\Module\HotelPolicyInfo.cs" />
+    <Compile Include="Hotels\Ctrip\Model\Module\HotelRatePlan.cs" />
+    <Compile Include="Hotels\Ctrip\Model\Module\HotelRatePlanRQ.cs" />
+    <Compile Include="Hotels\Ctrip\Model\Module\HotelReservation.cs" />
+    <Compile Include="Hotels\Ctrip\Model\Module\HotelReservationID.cs" />
+    <Compile Include="Hotels\Ctrip\Model\Module\HotelRoom.cs" />
+    <Compile Include="Hotels\Ctrip\Model\Module\MultimediaDescription.cs" />
+    <Compile Include="Hotels\Ctrip\Model\Module\MultimediaTextDescription.cs" />
+    <Compile Include="Hotels\Ctrip\Model\Module\Person.cs" />
+    <Compile Include="Hotels\Ctrip\Model\Module\Pertain.cs" />
+    <Compile Include="Hotels\Ctrip\Model\Module\PolicyInfoCode.cs" />
+    <Compile Include="Hotels\Ctrip\Model\Module\RelativePosition.cs" />
+    <Compile Include="Hotels\Ctrip\Model\Module\RoomFacility.cs" />
+    <Compile Include="Hotels\Ctrip\Model\Module\RoomRate.cs" />
+    <Compile Include="Hotels\Ctrip\Model\Module\RoomRatePlan.cs" />
+    <Compile Include="Hotels\Ctrip\Model\Module\VendorMessage.cs" />
+    <Compile Include="Hotels\Ctrip\Model\Module\ZoneInfo.cs" />
+    <Compile Include="Hotels\Ctrip\Model\Request\OTA_HotelAvailRQ.cs" />
+    <Compile Include="Hotels\Ctrip\Model\Request\OTA_HotelCacheChangeRQ.cs" />
+    <Compile Include="Hotels\Ctrip\Model\Request\OTA_HotelDescriptiveInfoRQ.cs" />
+    <Compile Include="Hotels\Ctrip\Model\Request\OTA_HotelRatePlanRQ.cs" />
+    <Compile Include="Hotels\Ctrip\Model\Request\OTA_HotelSearchRQ.cs" />
+    <Compile Include="Hotels\Ctrip\Model\Response\OTA_HotelAvailRS.cs" />
+    <Compile Include="Hotels\Ctrip\Model\Response\OTA_HotelCacheChangeRS.cs" />
+    <Compile Include="Hotels\Ctrip\Model\Response\OTA_HotelDescriptiveInfoRS.cs" />
+    <Compile Include="Hotels\Ctrip\Model\Response\OTA_HotelRatePlanRS.cs" />
+    <Compile Include="Hotels\Ctrip\Model\Response\OTA_HotelSearchRS.cs" />
+    <Compile Include="Hotels\Ctrip\Model\ReturnHeaderInfo.cs" />
+    <Compile Include="Hotels\Ctrip\SDK\APICommon.cs" />
+    <Compile Include="Hotels\Ctrip\SDK\WebSvcCaller.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Scenerys\LY\APIMethod.cs" />
+    <Compile Include="Scenerys\LY\Model\AreaInfo.cs" />
+    <Compile Include="Scenerys\LY\Model\Common.cs" />
+    <Compile Include="Scenerys\LY\Model\SceneryPrice.cs" />
+    <Compile Include="Scenerys\LY\SDK\ApiCommon.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Flights\" />
+    <Folder Include="Foods\" />
+    <Folder Include="Tours\" />
+    <Folder Include="Zuche\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\OpenAPI.Core\OpenAPI.Core.csproj">
+      <Project>{6f801c15-6cfa-49f3-bfd5-0f1c15652466}</Project>
+      <Name>OpenAPI.Core</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\OpenAPI.FrameWork\OpenAPI.FrameWork.csproj">
+      <Project>{efef621c-2dec-4bea-83bb-7a26fb167c32}</Project>
+      <Name>OpenAPI.FrameWork</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

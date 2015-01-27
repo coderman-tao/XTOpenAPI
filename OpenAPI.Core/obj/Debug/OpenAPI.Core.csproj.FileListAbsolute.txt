@@ -1,0 +1,12 @@
+C:\Users\taolinse\Source\Repos\XTOpenAPI\OpenAPI.Core\bin\Debug\OpenAPI.Core.dll
+C:\Users\taolinse\Source\Repos\XTOpenAPI\OpenAPI.Core\bin\Debug\OpenAPI.Core.pdb
+C:\Users\taolinse\Source\Repos\XTOpenAPI\OpenAPI.Core\bin\Debug\log4net.dll
+C:\Users\taolinse\Source\Repos\XTOpenAPI\OpenAPI.Core\bin\Debug\MySql.Data.dll
+C:\Users\taolinse\Source\Repos\XTOpenAPI\OpenAPI.Core\bin\Debug\OpenAPI.DB.dll
+C:\Users\taolinse\Source\Repos\XTOpenAPI\OpenAPI.Core\bin\Debug\OpenAPI.FrameWork.dll
+C:\Users\taolinse\Source\Repos\XTOpenAPI\OpenAPI.Core\bin\Debug\NVelocity.dll
+C:\Users\taolinse\Source\Repos\XTOpenAPI\OpenAPI.Core\bin\Debug\OpenAPI.DB.pdb
+C:\Users\taolinse\Source\Repos\XTOpenAPI\OpenAPI.Core\bin\Debug\OpenAPI.FrameWork.pdb
+C:\Users\taolinse\Source\Repos\XTOpenAPI\OpenAPI.Core\obj\Debug\OpenAPI.Core.csprojResolveAssemblyReference.cache
+C:\Users\taolinse\Source\Repos\XTOpenAPI\OpenAPI.Core\obj\Debug\OpenAPI.Core.dll
+C:\Users\taolinse\Source\Repos\XTOpenAPI\OpenAPI.Core\obj\Debug\OpenAPI.Core.pdb

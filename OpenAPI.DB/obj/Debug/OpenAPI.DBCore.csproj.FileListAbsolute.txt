@@ -1,0 +1,5 @@
+C:\Users\taolinse\Source\Repos\XTOpenAPI\OpenAPI.DB\bin\Debug\OpenAPI.DB.dll
+C:\Users\taolinse\Source\Repos\XTOpenAPI\OpenAPI.DB\bin\Debug\OpenAPI.DB.pdb
+C:\Users\taolinse\Source\Repos\XTOpenAPI\OpenAPI.DB\bin\Debug\MySql.Data.dll
+C:\Users\taolinse\Source\Repos\XTOpenAPI\OpenAPI.DB\obj\Debug\OpenAPI.DB.dll
+C:\Users\taolinse\Source\Repos\XTOpenAPI\OpenAPI.DB\obj\Debug\OpenAPI.DB.pdb

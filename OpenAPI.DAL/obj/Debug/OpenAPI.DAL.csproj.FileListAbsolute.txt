@@ -1,0 +1,4 @@
+C:\Users\taolinse\Source\Repos\XTOpenAPI\OpenAPI.DAL\bin\Debug\OpenAPI.DAL.dll
+C:\Users\taolinse\Source\Repos\XTOpenAPI\OpenAPI.DAL\bin\Debug\OpenAPI.DAL.pdb
+C:\Users\taolinse\Source\Repos\XTOpenAPI\OpenAPI.DAL\obj\Debug\OpenAPI.DAL.dll
+C:\Users\taolinse\Source\Repos\XTOpenAPI\OpenAPI.DAL\obj\Debug\OpenAPI.DAL.pdb

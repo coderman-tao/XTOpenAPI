@@ -1,0 +1,9 @@
+C:\Users\taolinse\Source\Repos\XTOpenAPI\OpenAPI.WebView\bin\OpenAPI.WebView.dll.config
+C:\Users\taolinse\Source\Repos\XTOpenAPI\OpenAPI.WebView\bin\OpenAPI.WebView.dll
+C:\Users\taolinse\Source\Repos\XTOpenAPI\OpenAPI.WebView\bin\OpenAPI.WebView.pdb
+C:\Users\taolinse\Source\Repos\XTOpenAPI\OpenAPI.WebView\bin\NVelocity.dll
+C:\Users\taolinse\Source\Repos\XTOpenAPI\OpenAPI.WebView\bin\System.Web.Providers.dll
+C:\Users\taolinse\Source\Repos\XTOpenAPI\OpenAPI.WebView\bin\URLRewriter.dll
+C:\Users\taolinse\Source\Repos\XTOpenAPI\OpenAPI.WebView\bin\zh-Hans\System.Web.Providers.resources.dll
+C:\Users\taolinse\Source\Repos\XTOpenAPI\OpenAPI.WebView\obj\Debug\OpenAPI.WebView.dll
+C:\Users\taolinse\Source\Repos\XTOpenAPI\OpenAPI.WebView\obj\Debug\OpenAPI.WebView.pdb

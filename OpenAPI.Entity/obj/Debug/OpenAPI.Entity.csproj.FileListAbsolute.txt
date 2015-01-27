@@ -1,0 +1,4 @@
+C:\Users\taolinse\Source\Repos\XTOpenAPI\OpenAPI.Entity\bin\Debug\OpenAPI.Entity.dll
+C:\Users\taolinse\Source\Repos\XTOpenAPI\OpenAPI.Entity\bin\Debug\OpenAPI.Entity.pdb
+C:\Users\taolinse\Source\Repos\XTOpenAPI\OpenAPI.Entity\obj\Debug\OpenAPI.Entity.dll
+C:\Users\taolinse\Source\Repos\XTOpenAPI\OpenAPI.Entity\obj\Debug\OpenAPI.Entity.pdb

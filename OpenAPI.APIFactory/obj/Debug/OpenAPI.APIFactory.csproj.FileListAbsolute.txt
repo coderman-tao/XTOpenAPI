@@ -1,0 +1,4 @@
+C:\Users\taolinse\Source\Repos\XTOpenAPI\OpenAPI.APIFactory\bin\Debug\OpenAPI.APIFactory.dll
+C:\Users\taolinse\Source\Repos\XTOpenAPI\OpenAPI.APIFactory\bin\Debug\OpenAPI.APIFactory.pdb
+C:\Users\taolinse\Source\Repos\XTOpenAPI\OpenAPI.APIFactory\obj\Debug\OpenAPI.APIFactory.dll
+C:\Users\taolinse\Source\Repos\XTOpenAPI\OpenAPI.APIFactory\obj\Debug\OpenAPI.APIFactory.pdb

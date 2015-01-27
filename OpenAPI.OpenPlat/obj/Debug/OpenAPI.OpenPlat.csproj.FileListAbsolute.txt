@@ -1,0 +1,4 @@
+C:\Users\taolinse\Source\Repos\XTOpenAPI\OpenAPI.OpenPlat\bin\Debug\OpenAPI.OpenPlat.dll
+C:\Users\taolinse\Source\Repos\XTOpenAPI\OpenAPI.OpenPlat\bin\Debug\OpenAPI.OpenPlat.pdb
+C:\Users\taolinse\Source\Repos\XTOpenAPI\OpenAPI.OpenPlat\obj\Debug\OpenAPI.OpenPlat.dll
+C:\Users\taolinse\Source\Repos\XTOpenAPI\OpenAPI.OpenPlat\obj\Debug\OpenAPI.OpenPlat.pdb

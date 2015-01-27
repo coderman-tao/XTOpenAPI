@@ -30,6 +30,12 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="log4net">
+      <HintPath>..\UsingDlls\log4net.dll</HintPath>
+    </Reference>
+    <Reference Include="MySql.Data">
+      <HintPath>..\UsingDlls\MySql.Data.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
@@ -39,8 +45,19 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Class1.cs" />
+    <Compile Include="DALCore.cs" />
+    <Compile Include="LoggerCore.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\OpenAPI.DB\OpenAPI.DBCore.csproj">
+      <Project>{14184724-a71a-4679-9938-ff10599497be}</Project>
+      <Name>OpenAPI.DBCore</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\OpenAPI.FrameWork\OpenAPI.FrameWork.csproj">
+      <Project>{efef621c-2dec-4bea-83bb-7a26fb167c32}</Project>
+      <Name>OpenAPI.FrameWork</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

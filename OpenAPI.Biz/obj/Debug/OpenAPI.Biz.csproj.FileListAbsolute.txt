@@ -1,0 +1,4 @@
+C:\Users\taolinse\Source\Repos\XTOpenAPI\OpenAPI.Biz\bin\Debug\OpenAPI.Biz.dll
+C:\Users\taolinse\Source\Repos\XTOpenAPI\OpenAPI.Biz\bin\Debug\OpenAPI.Biz.pdb
+C:\Users\taolinse\Source\Repos\XTOpenAPI\OpenAPI.Biz\obj\Debug\OpenAPI.Biz.dll
+C:\Users\taolinse\Source\Repos\XTOpenAPI\OpenAPI.Biz\obj\Debug\OpenAPI.Biz.pdb
